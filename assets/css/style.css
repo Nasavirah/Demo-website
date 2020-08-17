@@ -844,10 +844,11 @@ about
   border-bottom: 1px solid #eee;
 }
 .provide{
-  padding: 1.5rem
+  padding: 1rem;
+  width: 85%;
 }
 .provide h1{
-  font-size: 1.5rem;
+  font-size: 1.3rem !important;
   margin-top: 1rem;
 }
 .provide:hover{
@@ -882,10 +883,6 @@ about
   align-self: center;
 }
 
-#about h1{
-  font-size: 1.7rem;
-  font-weight: 600;
-}
 #about h5,
 #about2 h5 {
   font-size: 22px;
